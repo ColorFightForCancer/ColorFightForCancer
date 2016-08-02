@@ -10,10 +10,14 @@ body {
 	background: none;
 }
 
-.full {
-  background: url(/images/ColorForCancer2.png) no-repeat center center fixed; 
+/*.full {
+  background: url(/images/ColorForCancer2.png) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}*/
+
+.row {
+    margin-bottom:10px;
 }
