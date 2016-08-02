@@ -17,9 +17,10 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }*/
-.videorow {
-    margin-bottom:5px;
-}
-.row {
+
+.buttonrow {
     margin-bottom:10px;
+}
+.embed-responsive-4by3 {
+    padding-bottom: 60%;
 }
