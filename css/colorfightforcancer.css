@@ -17,7 +17,9 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }*/
-
+.videorow {
+    margin-bottom:5px;
+}
 .row {
     margin-bottom:10px;
 }
