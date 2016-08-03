@@ -44,7 +44,7 @@ video#bgvid {
 
 @media screen and (max-device-width: 700px) {
     html {
-         background: url(/images/lightthenightwalk.png) #000 no-repeat center center fixed;
+         background: url(/images/lightthenightwalk.png) #000 no-repeat center top fixed;
     }
     #bgvid {
         display: none;
