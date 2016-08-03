@@ -42,7 +42,7 @@ video#bgvid {
     background-size: cover;
 }
 
-@media screen and (max-device-width: 800px) {
+@media screen and (max-device-width: 700px) {
     html {
          background: url(/images/lightthenightwalk.png) #000 no-repeat center center fixed;
     }
