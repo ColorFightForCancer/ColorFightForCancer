@@ -38,15 +38,10 @@ video#bgvid {
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    background: url(/images/lightthenightwalk.png) no-repeat;
-    background-size: cover;
+
 }
 
 @media screen and (max-device-width: 800px) {
-    html {
-         background: url(/images/lightthenightwalk.png) #000 no-repeat center top fixed;
-         background-size: cover;
-    }
     #bgvid {
         display: none;
     }
