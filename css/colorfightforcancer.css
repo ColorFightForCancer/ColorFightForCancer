@@ -42,12 +42,10 @@ video#bgvid {
     background-size: cover;
 }
 
-@media screen and (max-device-width: 700px) {
-    html {
-         background: url(/images/lightthenightwalk.png) #000 no-repeat center top fixed;
+@media screen and (max-device-width: 800px) {
+    bgvid {
+         background: url(/images/lightthenightwalk.png) #000 no-repeat left top fixed;
          background-size: cover;
     }
-    #bgvid {
-        display: none;
-    }
+  
 }
